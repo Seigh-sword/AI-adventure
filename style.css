@@ -1,0 +1,19 @@
+body {
+  font-family: 'Comic Sans MS', cursive;
+  background: #1e1e1e;
+  color: white;
+  text-align: center;
+}
+
+canvas {
+  background: #222;
+  border: 5px solid lime;
+}
+
+#chatbox {
+  margin-top: 20px;
+  background: #111;
+  padding: 10px;
+  border: 2px solid cyan;
+  display: inline-block;
+}
